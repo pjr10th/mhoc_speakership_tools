@@ -1,4 +1,5 @@
-# imports praw (reddit API), gspread (GSheets API) -  ensure installed via 
+#!/usr/bin/env python3
+#imports praw (reddit API), gspread (GSheets API)
 import praw
 import csv
 from praw.models import MoreComments
